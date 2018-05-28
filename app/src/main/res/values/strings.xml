@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">moreTest</string>
+    <string name="name">Название работы</string>
+    <string name="Res">Ваш результат</string>
+    <string name="send">Отправить</string>
+    <string name="button">button</string>
+    <string name="add">add</string>
+</resources>
